@@ -1,0 +1,19 @@
+
+.dialog {
+    background-color: #692f6b;
+
+
+}
+
+.item {
+    /*background-color: #356b2f;*/
+    background-color: aquamarine;
+
+
+}
+
+.messages {
+    background-color: #692f6b;
+    padding: 40px;
+    color: aquamarine;
+}

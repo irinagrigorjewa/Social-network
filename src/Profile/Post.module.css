@@ -1,0 +1,15 @@
+
+.avatar{
+    /*background-color: #692f6b;*/
+
+width: 150px;
+}
+.post{
+    text-align: left;
+    padding-left: 40px;
+    margin: 10px;
+}
+.text{
+    padding: 20px;
+    width: 30%;
+}
